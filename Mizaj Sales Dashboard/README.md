@@ -1,24 +1,24 @@
-# Business Insights 360 Power BI Project
+# 📊 Mizaj Sales Dashboard
 
-Welcome to the Business Insights 360 Power BI project repository! 🚀
+Welcome to the Mizaj Sales Dashboard project repository! 🚀
 
 ## Overview
-Business Insights 360 is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with actionable insights across Finance, Sales, Marketing, and Supply Chain. This repository houses the project files and documentation.
+Mizaj Sales Dashboard is a comprehensive Power BI dashboard designed to empower Mizaj International with actionable insights across sales trends, customer behavior, and product performance. This repository houses the project files and documentation.
 
 ## Features
-- **Finance View:** Detailed financial analysis, including revenue, expenses, and profit margins.
-- **Sales View:** Insights into product and customer performance.
-- **Marketing View:** Analytics to enhance marketing strategy.
-- **Supply Chain View:** Optimization metrics for efficient supply chain management.
-- **Executive View:** Metrics critical for top-level decision-makers.
+- **Sales Trends View:** Detailed analysis of sales trends to help strategize effectively.
+- **Customer Insights View:** Insights into customer behavior for enhanced targeting and retention strategies.
+- **Product Performance View:** Monitoring and analysis of product performance to optimize inventory and boost revenue.
+- **Interactive Visualizations:** Engaging and user-friendly charts and dashboards for better data understanding.
+- **Actionable Insights:** Clear and concise visualizations that empower decision-makers to optimize strategies and maximize revenue.
 
 ## Live Dashboard
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzJkODEzZjUtMWJmZC00YjMyLWJlYzYtZjJmZTJjMGE0OWU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+Explore the live dashboard [here](https://app.powerbi.com/reportEmbed?reportId=4e6bc543-e1c5-4733-ac61-39e5a342f195&autoAuth=true&ctid=471e96a8-43b1-47a0-82ee-f9787f86e724).
 
 ## Key Achievements
-- **Customization:** Tailored for AtliQ Hardware's specific needs.
+- **Customization:**Tailored for Mizaj International's specific needs.
 - **Data Integration:** Seamless integration from Excel, CSV, and MySQL sources.
-- **Visualizations:** Engaging charts and visuals for better data understanding.
+- **Visualizations:** Captivating charts and visuals for better data storytelling.
 - **Performance Optimization:** Achieved a 5% increase in report efficiency.
 
 ## Getting Started
@@ -26,21 +26,11 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzJkODE
 2. Open the project in Power BI Desktop.
 3. Explore the data model and visualizations.
 
-## Data Sources
-The dashboard seamlessly collects and utilizes data from two primary sources:
-
-1. **Excel/CSV Files:** Targets, Market Share data, and related information are sourced from [Excel/CSV files](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/Excel_CSV_Files).
-   
-2. **MySQL Database:** Facts and Dimensions for all departments are retrieved from a [MySQL database](https://github.com/pradeep-the-analyst/BI-360/tree/main/Assets/MySQL_Database).
-
 ### Prerequisites
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - [DAX Studio](https://daxstudio.org/)
 
 ## How to Contribute
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## Acknowledgments
-Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
 
 # Explore, Analyze, Decide! 📊🔍🚀
